@@ -25,6 +25,10 @@ html, body {
     margin-bottom: 10px;
   }
   
+  .board {
+
+  }
+  
   .square {
     background: #fff;
     border: 1px solid #999;
